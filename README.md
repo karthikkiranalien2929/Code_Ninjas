@@ -1,9 +1,3 @@
-# Code_Ninjas
-
-Certainly! Below is a sample README file for your GitHub repository. Make sure to replace placeholders like `<your_repo_name>` with the actual name of your repository.
-
----
-
 # Course Seeker
 
 ## Overview
