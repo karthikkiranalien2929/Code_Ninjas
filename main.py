@@ -2,7 +2,7 @@ import streamlit as st
 import openai 
 import time
 
-openai.api_key = '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'
+openai.api_key = 
 
 def wait(interests,choice,i):
         time.sleep(5)
